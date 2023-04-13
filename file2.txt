@@ -1,1 +1,1 @@
-local repository update successfully
+ repository update successfully
